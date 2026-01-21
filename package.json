@@ -22,7 +22,7 @@
     "@wix/stores": "^1.0.140",
     "babel-plugin-module-resolver": "^5.0.0",
     "date-fns": "^3.3.1",
-    "expo": "~52.0.25",
+    "expo": "~54.0.31",
     "expo-auth-session": "~6.0.2",
     "expo-standard-web-crypto": "^1.8.1",
     "expo-font": "~13.0.3",
